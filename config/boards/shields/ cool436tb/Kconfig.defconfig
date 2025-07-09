@@ -1,0 +1,7 @@
+if SHIELD_COOL436TB
+
+config ZMK_KEYBOARD_NAME
+    default "cool436tb"
+
+
+endif
